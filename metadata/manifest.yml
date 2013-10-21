@@ -1,8 +1,8 @@
 ---
-Name: gitssh
-Cartridge-Short-Name: GITSSH
+Name: maven-hex
+Cartridge-Short-Name: HEXAFRAC
 Architecture: noarch
-Display-Name: Git SSH Helper
+Display-Name: Hexafraction maven workaround
 Description: Utility
 Version: '0.0.1'
 Cartridge-Version: 0.0.1
@@ -11,7 +11,7 @@ License: BSD
 Categories:
 - embedded
 Provides:
-- git-ssh
+- maven
 Scaling:
   Min: 1
   Max: 1
