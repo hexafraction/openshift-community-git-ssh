@@ -3,6 +3,7 @@ Name: maven-hex
 Cartridge-Short-Name: HEXAFRAC
 Architecture: noarch
 Display-Name: Hexafraction maven workaround
+Source-Url: git@github.com:rarkenin/openshift-community-git-ssh.git
 Description: Utility
 Version: '0.0.1'
 Cartridge-Version: 0.0.1
