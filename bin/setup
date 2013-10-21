@@ -2,3 +2,4 @@
 
 touch $HOME/.netrc
 mkdir $OPENSHIFT_DATA_DIR/git-ssh
+mkdir $HOME/.m2
